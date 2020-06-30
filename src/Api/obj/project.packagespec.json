@@ -1,13 +1,12 @@
 ﻿{
   "version": "1.0.0",
   "restore": {
-    "projectUniqueName": "G:\\users\\quangle\\demo\\quickstart\\src\\Api\\Api.csproj",
+    "projectUniqueName": "D:\\DEMO\\IdentityServerQuickStart\\src\\Api\\Api.csproj",
     "projectName": "Api",
-    "projectPath": "G:\\users\\quangle\\demo\\quickstart\\src\\Api\\Api.csproj",
-    "outputPath": "G:\\users\\quangle\\demo\\quickstart\\src\\Api\\obj\\",
+    "projectPath": "D:\\DEMO\\IdentityServerQuickStart\\src\\Api\\Api.csproj",
+    "outputPath": "D:\\DEMO\\IdentityServerQuickStart\\src\\Api\\obj\\",
     "projectStyle": "PackageReference",
     "fallbackFolders": [
-      "C:\\Microsoft\\Xamarin\\NuGet",
       "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ],
     "originalTargetFrameworks": [
@@ -15,6 +14,7 @@
     ],
     "sources": {
       "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+      "http://pkg.idtek.com.vn/nuget/default-nuget": {},
       "https://api.nuget.org/v3/index.json": {}
     },
     "frameworks": {
@@ -54,7 +54,7 @@
           "privateAssets": "all"
         }
       },
-      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.300\\RuntimeIdentifierGraph.json"
+      "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
     }
   }
 }
