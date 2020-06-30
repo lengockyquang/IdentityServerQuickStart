@@ -3679,23 +3679,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\IDTEK\\.nuget\\packages\\": {},
-    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
+    "C:\\Users\\kyqua\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\DEMO\\IdentityServerQuickStart\\src\\IdentityServer\\IdentityServer.csproj",
+      "projectUniqueName": "D:\\Projects\\IdentityQuickStart\\src\\IdentityServer\\IdentityServer.csproj",
       "projectName": "IdentityServer",
-      "projectPath": "D:\\DEMO\\IdentityServerQuickStart\\src\\IdentityServer\\IdentityServer.csproj",
-      "packagesPath": "C:\\Users\\IDTEK\\.nuget\\packages\\",
-      "outputPath": "D:\\DEMO\\IdentityServerQuickStart\\src\\IdentityServer\\obj\\",
+      "projectPath": "D:\\Projects\\IdentityQuickStart\\src\\IdentityServer\\IdentityServer.csproj",
+      "packagesPath": "C:\\Users\\kyqua\\.nuget\\packages\\",
+      "outputPath": "D:\\Projects\\IdentityQuickStart\\src\\IdentityServer\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "C:\\Users\\IDTEK\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\kyqua\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -3703,7 +3699,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "http://pkg.idtek.com.vn/nuget/default-nuget": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -3747,7 +3742,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\PROGRAM FILES\\DOTNET\\sdk\\3.1.301\\RuntimeIdentifierGraph.json"
       }
     }
   }

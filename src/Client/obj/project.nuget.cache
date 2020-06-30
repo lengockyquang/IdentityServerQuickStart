@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FUJ26lzVn3raickmz5bEsvmrPusoUvlabkrawZNNAd0aw8vwRDCrNaGq6JAXdddv1sB+tXVf58aSQ6fO85C11w==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\IdentityQuickStart\\src\\Client\\Client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kyqua\\.nuget\\packages\\identitymodel\\4.3.0\\identitymodel.4.3.0.nupkg.sha512",
+    "C:\\Users\\kyqua\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\kyqua\\.nuget\\packages\\system.text.encodings.web\\4.7.0\\system.text.encodings.web.4.7.0.nupkg.sha512"
+  ],
+  "logs": []
+}
