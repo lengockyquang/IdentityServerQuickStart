@@ -1,8 +1,9 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\kyqua\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\kyqua\\.nuget\\packages"
+      "C:\\Users\\IDTEK\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\IDTEK\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }
